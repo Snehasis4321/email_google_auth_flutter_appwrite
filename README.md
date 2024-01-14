@@ -1,16 +1,37 @@
-# email_google_auth_flutter_appwrite
 
-A new Flutter project.
+![reset-pass-email-verify](https://github.com/Snehasis4321/email_google_auth_flutter_appwrite/assets/96995340/690d09c6-5d85-4b15-9564-089920dc7daa)
+# Authentication in Appwrite
 
-## Getting Started
+This repository contains all the code for the flutter app that uses the Authentication Methods :
+- Email & Password Login
+- Google Auth (Oauth2)
 
-This project is a starting point for a Flutter application.
+## 📺 [Watch Full Tutorial here](https://youtu.be/MCKGFqcY-mU)
 
-A few resources to get you started if this is your first Flutter project:
+## 📝 For Verify Email and Reset Password
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You will be needing a backend for this, i have not explained much about the backend node.js in the tutorial but you can use my backend code please [refer here](https://github.com/Snehasis4321/reset_and_verifyemail_node_appwrite).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 💻 Tech Stack
+**App** : Flutter
+
+**Database**: Appwrite
+
+
+
+
+## 📔 Topics Covered 
+- Create New Account
+- Login to existing Account
+- Check Sessions
+- Logout the user
+- Verify Email
+- Reset Password
+- Google Auth
+
+
+## 👨‍💻 Authors 
+- [@Snehasis4321](https://www.github.com/snehasis4321)
+
+
