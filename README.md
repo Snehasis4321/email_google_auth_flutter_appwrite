@@ -1,5 +1,6 @@
 
-![reset-pass-email-verify](https://github.com/Snehasis4321/email_google_auth_flutter_appwrite/assets/96995340/690d09c6-5d85-4b15-9564-089920dc7daa)
+![reset-pass-email-verify-2](https://github.com/Snehasis4321/email_google_auth_flutter_appwrite/assets/96995340/08a37220-9e20-4f1b-b9eb-bd562dde216e)
+
 # Authentication in Appwrite
 
 This repository contains all the code for the flutter app that uses the Authentication Methods :
